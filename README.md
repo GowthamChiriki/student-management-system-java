@@ -15,7 +15,7 @@ A console-based Student Management System built in **Java** using **JDBC** and *
 
 ## Project Structure
 
-Student Management System/
+```Student Management System/
 ├── src/ # Java source code
 │ ├── Main.java
 │ ├── Student.java
@@ -23,13 +23,7 @@ Student Management System/
 │ └── DBConnection.java
 ├── .gitignore # Git ignore file
 └── README.md # Project documentation
-
-
-Author
-Gowtham Chiriki
-GitHub: https://github.com/GowthamChiriki
-Backend / Java Developer | JDBC & MySQL | Spring Boot Learner
-
+```
 
 ## How to Run
 **Setup MySQL Database**
@@ -42,4 +36,10 @@ Backend / Java Developer | JDBC & MySQL | Spring Boot Learner
        name VARCHAR(100),
        age INT,
        grade VARCHAR(10)
-   );```
+   );
+```
+```Author
+Gowtham Chiriki
+GitHub: https://github.com/GowthamChiriki
+Backend / Java Developer | JDBC & MySQL | Spring Boot Learner
+```
